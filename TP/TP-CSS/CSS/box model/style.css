@@ -1,0 +1,25 @@
+#test {
+  background-color: lightgrey;
+  width: 300px;
+  border: 50px solid green;
+  padding: 50px;
+  margin: 50px;
+}
+
+#sect1 {
+  height: 200px;
+  width: 550px;
+  background-color: powderblue;
+}
+#sect2 {
+  height: 200px;
+  width: 50%;
+  background-color: powderblue;
+}
+#sect3 {
+  height: 200px;
+  min-width: 550px;
+  background-color: powderblue;
+}
+
+
